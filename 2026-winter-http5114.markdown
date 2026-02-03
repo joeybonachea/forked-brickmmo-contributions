@@ -6,7 +6,7 @@
 
 |                                                        | Name                  | Profile                                            |
 | ------------------------------------------------------ | --------------------- | -------------------------------------------------- |
-| ![Joseph Bonachea](images/joeybonachea.jpg) | Joseph Bonachea | [joeybonachea](students/joey-bonachea.md) |
+| ![Joseph Bonachea](images/joeybonachea.jpg) | Joseph Bonachea | [joeybonachea](students/joeybonachea.md) |
 
 
 ### Faculty
